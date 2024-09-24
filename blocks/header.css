@@ -14,13 +14,10 @@
   display: block;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
-  font-size: 60px;
-  line-height: 72px;
   color: #3f96f3;
 }
 
 .header__title {
-  height: 128px;
   margin: 183px 0 0;
   font-family: "Inter", Arial, sans-serif;
   font-weight: 500;
