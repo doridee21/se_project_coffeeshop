@@ -13,4 +13,4 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+I plan on adding an iframe with a Spotify playlist. Either in the header section or the about section; maybe the header area. The idea is to add sound as customers view the menu/website :)
